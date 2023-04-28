@@ -1,0 +1,3 @@
+' This VBA script analyzes stock data for multiple worksheets and outputs the yearly change, percent change, and total stock volume for each stock, as well as the stock with the greatest percent increase, greatest percent decrease, and highest total stock volume. The script assumes that the stock data is organized in a specific way and that there are no blank rows or columns within the data range. 
+Sub StockAnalysis()
+...
